@@ -1,7 +1,7 @@
 # Blender Squash
 
 ## A game for blender 2.8
-Blender squash is a little game rendered using the [blender](https://blender.org) version 2.8 real timer viewport (Eevee).
+Blender squash is a little game rendered using the [blender](https://blender.org) version 2.8 real time viewport (Eevee).
 All physics are managed by the python script, the blender viewport is used for displaying the results and playing back some animations.
 
 ## A simple gameplay
@@ -17,4 +17,4 @@ All resources haven been packed into the single .blend file, but the game python
 To be able to use the in blender included [audaspace](https://github.com/audaspace/audaspace) python bindings the sound files get extracted using Python's [tempfile](https://docs.python.org/3/library/tempfile.html) library.
 
 ## A last hint
-Start blender first and toogle the full screen mode or launch it with the -W runtime option to experience it without any window frame.
+Start blender first and toggle the full screen mode or launch it with the -W run option to experience it without any window frame.
